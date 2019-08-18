@@ -1,5 +1,5 @@
 def my_hash(key, value)
-  hash = {key=>value}
+  hash[key] = value
 
   
 end
